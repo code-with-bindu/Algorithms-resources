@@ -1,6 +1,5 @@
 # Algorithms-resources
 
-
 A curated list of awesome places to learn and/or practice algorithms.
 Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) and all the other awesome Awesome libraries.
 
